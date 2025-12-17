@@ -103,19 +103,6 @@ const aryan = {
 
 ---
 
-## 📂 Featured Work
-
-<div align="center">
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🌐 **[RaiDenNsg.github.io](https://RaiDenNsg.github.io)** | Personal portfolio showcasing my work | HTML, CSS |
-| 🎨 **HTML-CSS Collection** | Frontend experiments & practice projects | HTML5, CSS3 |
-| 🧪 **C Programming** | Foundational programming projects | C |
-
-</div>
-
-> 💡 *Each project is a learning opportunity to refine my craft*
 
 ---
 
