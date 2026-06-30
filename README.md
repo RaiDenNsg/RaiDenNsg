@@ -50,17 +50,6 @@ I'm a frontend developer passionate about building clean, intuitive interfaces t
 
 ---
 
-## Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🖥️ **[Aryan OS](https://github.com/RaiDenNsg/aryan-os)** | Interactive portfolio designed as a desktop operating system, with a custom mobile ROM experience | React, Tailwind CSS, Framer Motion |
-| 🧠 **[MindPulse](https://github.com/RaiDenNsg/mindpulse)** | Cognitive load tracker for coders — tracks focus, typing behavior, and mental workload in real time, with a Chrome extension for LeetCode and Programiz | React, Firebase, Firestore, Chrome Extensions API |
-| 🛡️ **[OSAAS](https://github.com/rajivsthh/OSAAS)** | Offensive Security as a Service — full-stack security scanner detecting OWASP Top 10 vulnerabilities with cryptographic report verification | React, Node.js, Firebase |
-| 🏗️ **[Upyog](https://github.com/dhirendraxd/5th-Avenue-KEC-Hack-a-Lite-3.o)** | B2B equipment rental marketplace connecting equipment owners with businesses | React, TypeScript, Firebase |
-
----
-
 ## Hackathon Experience
 
 | Event | Highlights |
