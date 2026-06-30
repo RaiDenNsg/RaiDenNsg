@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Aryan%20KC&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Frontend%20Developer%20%E2%80%A2%20Web%20Designer%20%E2%80%A2%20Hackathon%20Enthusiast&descAlignY=60&descSize=15" width="100%"/>
 
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://RaiDenNsg.github.io) -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://aryan-os-chi.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RaiDenNsg)
 
 </div>
@@ -50,12 +50,25 @@ I'm a frontend developer passionate about building clean, intuitive interfaces t
 
 ---
 
+## Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🖥️ **[Aryan OS](https://github.com/RaiDenNsg/aryan-os)** | Interactive portfolio designed as a desktop operating system, with a custom mobile ROM experience | React, Tailwind CSS, Framer Motion |
+| 🧠 **[MindPulse](https://github.com/RaiDenNsg/mindpulse)** | Cognitive load tracker for coders — tracks focus, typing behavior, and mental workload in real time, with a Chrome extension for LeetCode and Programiz | React, Firebase, Firestore, Chrome Extensions API |
+| 🛡️ **[OSAAS](https://github.com/rajivsthh/OSAAS)** | Offensive Security as a Service — full-stack security scanner detecting OWASP Top 10 vulnerabilities with cryptographic report verification | React, Node.js, Firebase |
+| 🏗️ **[Upyog](https://github.com/dhirendraxd/5th-Avenue-KEC-Hack-a-Lite-3.o)** | B2B equipment rental marketplace connecting equipment owners with businesses | React, TypeScript, Firebase |
+
+---
+
 ## Hackathon Experience
 
 | Event | Highlights |
 |-------|------------|
 | ⚡ **KEC Hack-a-Lite** | Rapid prototyping, team collaboration under pressure |
+| ⚡ **KEC Hack-a-Lite 3.0** | Built Upyog, a B2B equipment rental marketplace |
 | 🚀 **CodeYatra 2025** | Frontend innovation, end-to-end problem solving |
+| 🔐 **SXC Sandbox 3.0** | Built OSAAS, a security vulnerability scanner |
 
 Hackathons taught me how to move fast without breaking things — shipping real products under real constraints while communicating effectively with a team.
 
@@ -76,9 +89,8 @@ Hackathons taught me how to move fast without breaking things — shipping real 
 
 I'm always open to new projects, collaborations, and conversations.
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kcaryan899@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryankc-k7)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
 
 <br/>
 
